@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Challenge003/Tree.unity
+- path: Assets/Challenges.unity
   isLoaded: 1
   isActive: 1
